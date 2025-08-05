@@ -64,4 +64,6 @@ func main() {
 	//%10
 	fmt.Printf("percentage is %%%d", 10)
 
+	//task print binary of 12
+
 }
