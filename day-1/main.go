@@ -62,8 +62,11 @@ func main() {
 	fmt.Printf("pi value %.20f \n", pi)
 
 	//%10
-	fmt.Printf("percentage is %%%d", 10)
+	fmt.Printf("percentage is %%%d\n", 10)
 
 	//task print binary of 12
+	fmt.Printf("Hex value is %0x\n",12)
+	z :="Savitha"
+	fmt.Printf("%-10s%s",z,z)
 
 }
